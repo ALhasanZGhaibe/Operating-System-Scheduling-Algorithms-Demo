@@ -1,0 +1,10 @@
+C:\Users\hasanzgh\source\repos\Scheduling Algorithms\Scheduling Algorithms\bin\Debug\Scheduling Algorithms.exe
+C:\Users\hasanzgh\source\repos\Scheduling Algorithms\Scheduling Algorithms\bin\Debug\Scheduling Algorithms.pdb
+C:\Users\hasanzgh\source\repos\Scheduling Algorithms\Scheduling Algorithms\obj\Debug\Scheduling Algorithms.csprojAssemblyReference.cache
+C:\Users\hasanzgh\source\repos\Scheduling Algorithms\Scheduling Algorithms\obj\Debug\Scheduling_Algorithms.Form1.resources
+C:\Users\hasanzgh\source\repos\Scheduling Algorithms\Scheduling Algorithms\obj\Debug\Scheduling_Algorithms.Properties.Resources.resources
+C:\Users\hasanzgh\source\repos\Scheduling Algorithms\Scheduling Algorithms\obj\Debug\Scheduling Algorithms.csproj.GenerateResource.cache
+C:\Users\hasanzgh\source\repos\Scheduling Algorithms\Scheduling Algorithms\obj\Debug\Scheduling Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\hasanzgh\source\repos\Scheduling Algorithms\Scheduling Algorithms\obj\Debug\Scheduling Algorithms.exe
+C:\Users\hasanzgh\source\repos\Scheduling Algorithms\Scheduling Algorithms\obj\Debug\Scheduling Algorithms.pdb
+C:\Users\hasanzgh\source\repos\Scheduling Algorithms\Scheduling Algorithms\bin\Debug\Scheduling Algorithms.exe.config
